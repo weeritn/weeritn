@@ -1,4 +1,11 @@
-### Hi there 👋
+# Weerit Nopcharoenwong
+
+Computer Scientist at [University of Utah](https://pages.github.com/)
+
+Links to learn more about me:<br/>
+[Resume]<br/>
+[LinkedIn](https://www.linkedin.com/in/weeritn/)<br/>
+[Instagram](https://www.instagram.com/weerit.ap2/)<br/>
 
 <!--
 **weeritn/weeritn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
