@@ -3,6 +3,7 @@
 > Computer Scientist at [University of Utah](https://pages.github.com/)
 
 Links to learn more about me:<br/>
+[Resume](https://docs.google.com/document/d/18T_UpPXBiY6e1aiEV5zGy-ntNd6QlfpO/edit?usp=sharing&ouid=110672725518510358246&rtpof=true&sd=true)<br/>
 [LinkedIn](https://www.linkedin.com/in/weeritn/)<br/>
 [Instagram](https://www.instagram.com/weerit.ap2/)<br/>
 
