@@ -1,12 +1,9 @@
 # Weerit Nopcharoenwong
 
-> Computer Scientist at [University of Utah](https://pages.github.com/)
+> Software Engineer
 
 Links to learn more about me:<br/>
-[Website](https://weeritn.github.io)<br/>
-[Resume](https://weeritn.github.io/resume/)<br/>
 [LinkedIn](https://www.linkedin.com/in/weeritn/)<br/>
-[Instagram](https://www.instagram.com/weerit.ap2/)<br/>
 
 <!--
 **weeritn/weeritn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
